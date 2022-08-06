@@ -1,0 +1,13 @@
+C:\Users\kklop\source\repos\MusicCollection\MusicCollection\bin\Debug\MusicCollection.dll.config
+C:\Users\kklop\source\repos\MusicCollection\MusicCollection\bin\Debug\MusicCollection.dll
+C:\Users\kklop\source\repos\MusicCollection\MusicCollection\bin\Debug\MusicCollection.pdb
+C:\Users\kklop\source\repos\MusicCollection\MusicCollection\bin\Debug\EntityFramework.dll
+C:\Users\kklop\source\repos\MusicCollection\MusicCollection\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kklop\source\repos\MusicCollection\MusicCollection\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\kklop\source\repos\MusicCollection\MusicCollection\bin\Debug\EntityFramework.xml
+C:\Users\kklop\source\repos\MusicCollection\MusicCollection\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kklop\source\repos\MusicCollection\MusicCollection\obj\Debug\MusicCollection.csproj.AssemblyReference.cache
+C:\Users\kklop\source\repos\MusicCollection\MusicCollection\obj\Debug\MusicCollection.csproj.CoreCompileInputs.cache
+C:\Users\kklop\source\repos\MusicCollection\MusicCollection\obj\Debug\MusicCollection.csproj.CopyComplete
+C:\Users\kklop\source\repos\MusicCollection\MusicCollection\obj\Debug\MusicCollection.dll
+C:\Users\kklop\source\repos\MusicCollection\MusicCollection\obj\Debug\MusicCollection.pdb
